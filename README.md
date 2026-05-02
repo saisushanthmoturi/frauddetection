@@ -1,5 +1,7 @@
 # Financial Fraud Detection System
 
+**Live App:** [https://fraud-detection-m.streamlit.app/](https://fraud-detection-m.streamlit.app/)
+
 A real-time fraud detection web application built with **Streamlit** and **Scikit-Learn**. This system uses machine learning to analyze financial transactions and identify potential fraudulent activity based on patterns such as account draining and transaction types.
 
 ## 🚀 Features

@@ -46,15 +46,15 @@ A real-time fraud detection web application built with **Streamlit** and **Sciki
    streamlit run fraud_detection.py
    ```
 
-## 📊 How to Test for Fraud
+## How to Test for Fraud
 To see the model in action, try the following "Fraud" patterns:
 - **Type**: `TRANSFER`
 - **Amount**: Same as the `Old Balance (Sender)` (e.g., 500,000)
 - **New Balance (Sender)**: `0`
 - **Receiver Balances**: `0`
 
-## 📝 Dataset
+## Dataset
 The model is trained on the **PaySim** dataset, which simulates mobile money transactions based on a sample of real financial logs. It focuses on detecting `TRANSFER` and `CASH_OUT` fraud.
 
----
+
 Developed by [Sai Sushanth Moturi](https://github.com/saisushanthmoturi)

@@ -4,7 +4,7 @@
 
 A real-time fraud detection web application built with **Streamlit** and **Scikit-Learn**. This system uses machine learning to analyze financial transactions and identify potential fraudulent activity based on patterns such as account draining and transaction types.
 
-## 🚀 Features
+## Features
 - **Real-time Prediction**: Input transaction details manually to get an instant fraud assessment.
 - **Machine Learning Powered**: Uses a Random Forest model trained on the PaySim financial dataset.
 - **Clean UI**: Simple and intuitive interface built with Streamlit.
